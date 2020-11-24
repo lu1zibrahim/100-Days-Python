@@ -6,6 +6,6 @@ def square_sum(numbers):
     return total
 
 
-#Better way
+#Another and more like python way
 #def square_sum(numbers):
     #return sum(x ** 2 for x in numbers)

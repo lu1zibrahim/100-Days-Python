@@ -5,6 +5,6 @@ def set_alarm(employed, vacation):
         return False
 
 
-#Another way
+#Simpler Way
 #def set_alarm(employed, vacation):
     #return employed and not vacation

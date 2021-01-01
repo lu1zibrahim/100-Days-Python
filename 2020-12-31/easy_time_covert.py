@@ -7,4 +7,4 @@ def time_convert(num):
 
 #Another way
 """def timeConvert(m):
-    return '{:02d}:{:02d}'.format(*divmod(max(int(m), 0), 60))   """
+    return '{:02d}:{:02d}'.format(*divmod(max(int(m), 0), 60))"""
